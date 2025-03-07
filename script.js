@@ -1,4 +1,4 @@
-let taxiFareApiUrl = 'http://localhost:8001/predict'; // replace with your API endpoint
+
 
 const taxiFareApiUrl = 'https://taxifare.lewagon.ai/predict';
 
